@@ -40,10 +40,10 @@ export default function index() {
                 </div>
                 <div className={styles.nav}>
                         <Rounded>
-                            <p>info@dennissnellenberg.com</p>
+                            <p>hello@developwithaashir.com</p>
                         </Rounded>
                         <Rounded>
-                            <p>+31 6 27 84 74 30</p>
+                            <p>+971 6 27 84 74 30</p>
                         </Rounded>
                 </div>
                 <div className={styles.info}>
